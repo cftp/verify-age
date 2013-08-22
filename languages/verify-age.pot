@@ -1,0 +1,103 @@
+# Copyright (C) 2013 Verify Age
+# This file is distributed under the same license as the Verify Age package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Verify Age 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/verify-age\n"
+"POT-Creation-Date: 2013-08-21 17:26:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: templates/verify-age-form.php:10
+msgid "You must be at least %d to enter this site"
+msgstr ""
+
+#: templates/verify-age-form.php:12
+msgid "Sorry. You are too young to access this site."
+msgstr ""
+
+#: templates/verify-age-form.php:14
+msgid "Fill in your age below, please."
+msgstr ""
+
+#: templates/verify-age-form.php:16
+msgid ""
+"Please check the date you have entered below, it doesn't look like a valid "
+"date."
+msgstr ""
+
+#: templates/verify-age-form.php:22
+msgid "Day"
+msgstr ""
+
+#: templates/verify-age-form.php:30
+msgid "DD"
+msgstr ""
+
+#: templates/verify-age-form.php:36
+msgid "Month"
+msgstr ""
+
+#: templates/verify-age-form.php:44
+msgid "MM"
+msgstr ""
+
+#: templates/verify-age-form.php:50
+msgid "Year"
+msgstr ""
+
+#: templates/verify-age-form.php:58
+msgid "YYYY"
+msgstr ""
+
+#: templates/verify-age-form.php:65
+msgid "Submit"
+msgstr ""
+
+#: verify-age.php:133
+msgid "Minimum age"
+msgstr ""
+
+#. #-#-#-#-#  verify-age.pot (Verify Age 1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: verify-age.php:135 verify-age.php:136
+msgid "Verify Age"
+msgstr ""
+
+#: verify-age.php:149
+msgid "years"
+msgstr ""
+
+#: verify-age.php:150
+msgid ""
+"This is the minimum age someone must be to view your website, it is added by "
+"the Verify Age plugin. Disable the plugin to disable this restriction."
+msgstr ""
+
+#: verify-age.php:199
+msgid "Restrict page/post access to %s+ years"
+msgstr ""
+
+#: verify-age.php:465
+msgid "This plugin template could not be found: %s"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.simonwheatley.co.uk/wordpress/verify-age"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin forces users to verify their age before entering the site"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sweet Interaction Ltd"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sweetinteraction.com/"
+msgstr ""

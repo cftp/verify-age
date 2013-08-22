@@ -1,0 +1,51 @@
+#verify_age {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	background: url( ../images/black.png );
+	z-index: 9999;
+}
+
+#verify_age .inner {
+	background-color: #fff;
+	height: 400px;
+	left: 50%;
+	margin: -200px 0 0 -380px;
+	position: absolute;
+	top: 50%;
+	width: 760px;
+}
+
+#verify_age h1 {
+	color: #000;
+	font-size: 2em;
+}
+
+#va_too_young {
+	display: none;
+}
+
+#verify_age .error {
+	background-color: #ffb; 
+	color: #600; 
+	padding: 10px;
+	display: none;
+}
+
+#verify_age input.text_2_chars {
+	width: 1.8em;
+}
+
+#verify_age input.text_4_chars {
+	width: 2.8em;
+}
+
+#verify_age .hinted {
+	color: #666;
+}

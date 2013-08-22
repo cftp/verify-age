@@ -1,0 +1,1 @@
+(function(a){a.fn.extend({clearOnFocus:function(b){this.each(function(){var c;if(b){c=b;}else{c=a(this).attr("title");}if(!a.trim(a(this).val())){a(this).val(c).addClass("hinted");}a(this).focus(function(){if(a(this).val()==c){a(this).val("").removeClass("hinted");}}).blur(function(){if(!a(this).val()){a(this).val(c).addClass("hinted");}});});return this;}});})(jQuery);
